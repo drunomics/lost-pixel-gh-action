@@ -82,7 +82,7 @@ jobs:
         uses: docker/setup-buildx-action@v2
 
       - name: Publish to Registry
-        uses: elgohr/Publish-Docker-Github-Action@43dc228e327224b2eda11c8883232afd5b34943b
+        uses: elgohr/Publish-Docker-Github-Action@686ffe1e82bed6639d202a799708561d18f30712
         with:
           name: lostpixel/lost-pixel
           username: ${{ secrets.DOCKER_USERNAME }}
