@@ -92,7 +92,7 @@
     "@types/pngjs": "6.0.4",
     "@types/serve-handler": "6.1.4",
     "@types/shelljs": "0.8.15",
-    "@types/uuid": "9.0.7",
+    "@types/uuid": "9.0.8",
     "@typescript-eslint/eslint-plugin": "6.18.1",
     "@typescript-eslint/parser": "6.18.1",
     "eslint": "8.56.0",
