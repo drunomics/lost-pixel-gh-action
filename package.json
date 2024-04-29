@@ -59,7 +59,7 @@
   "dependencies": {
     "@types/xml2js": "^0.4.14",
     "async": "3.2.5",
-    "axios": "1.6.5",
+    "axios": "1.6.8",
     "bundle-require": "4.0.2",
     "esbuild": "0.19.11",
     "execa": "5.1.1",
